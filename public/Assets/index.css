@@ -34,8 +34,6 @@ td {
 .footer {
   height: 50px;
   width: auto;
-  padding: 20px;
-  margin: 20px;
   background-color: rgb(253, 34, 71);
   display: flex;
   justify-content: space-around;
